@@ -1,0 +1,98 @@
+Avião
+
+Um avião ou aeroplano é qualquer aeronave que necessita de asas fixas e motores para se sustentar no ar. Pode
+possuir um ou mais planos de asa, sendo estas fixas em relação ao corpo da aeronave, ou seja, que dependem do
+movimento do veículo como um todo para gerar sustentação aérea. Essa definição de asa fixa também se aplica aos que
+possuem asas dobráveis, pois estas também só geram sustentação ao se deslocar todo o veículo.
+
+Duas características comuns a todos os aviões são a necessidade de um fluxo constante de ar pelas asas para a
+sustentação da aeronave e a necessidade de uma área plana e livre de obstáculos onde eles possam alcançar a
+velocidade necessária para decolar e alçar voo, ou diminuí-la, no caso de uma operação de pouso. A maioria dos
+aviões, portanto, necessita de um aeroporto, dispondo de uma boa infraestrutura para receber adequada manutenção e
+reabastecimento, e para o deslocamento de tripulantes, carga e passageiros. Enquanto a grande maioria dos aviões
+pousa e decola em terra, alguns são capazes de fazer o mesmo na água (hidroaviões), outros são capazes de decolar e
+pousar tanto na água quanto em terra (aviões anfíbios) e alguns até mesmo sobre superfícies congeladas.
+
+O avião é considerado o segundo meio de transporte mais seguro que existe, perdendo apenas para o elevador. É
+atualmente, também, o meio de transporte civil e militar mais rápido do planeta (sem considerar os foguetes e os
+ônibus espaciais). Aviões a jato comerciais podem alcançar cerca de 900 km/h, e percorrer um quarto da esfera
+terrestre em questão de horas, e mesmo pequenos aviões monomotores são capazes de alcançar facilmente velocidades em
+torno de 175 km/h ou mais em voo de cruzeiro. Já aviões supersônicos, que operam atualmente apenas para fins
+militares, podem alcançar velocidades que superam em várias vezes a velocidade do som (número de Mach - Ma) (1 Ma
+(343 m/s)).
+
+História
+
+Antecedentes
+
+O sonho de voar remonta, para o ser humano, desde a pré-história. Muitas lendas, crenças e mitos da antiguidade
+envolvem ou possuem fatos relacionados com o voo, como a lenda grega de Ícaro. Acredita-se que Arquitas de Tarento,
+filósofo e matemático da Grécia Antiga tenha construído uma máquina voadora por volta do ano 400 antes de Cristo.
+
+Leonardo da Vinci, entre outros inventores visionários, desenhou um avião, no século XV. Com o primeiro voo feito
+pelo homem (Jean-François Pilâtre de Rozier e François Laurent d'Arlandes) num aeróstato (aeronave mais leve que o
+ar), um balão, o maior desafio tornou-se a criação de um aerodino (máquina mais pesada do que o ar), capaz de alçar
+voo por meios próprios.
+
+Anos de pesquisas por muitas pessoas ávidas do tão sonhado voo produziram resultados fracos e lentos, mas contínuos.
+Em 28 de agosto de 1883, John Joseph Montgomery tornou-se a primeira pessoa a fazer um voo controlado em uma máquina
+mais pesada do que o ar, em um planador. Outros aviadores que fizeram voos semelhantes naquela época foram Otto
+Lilienthal.
+
+Primeiros voos motorizados
+
+No começo do século XX foi realizado o primeiro voo numa máquina mais pesada do que o ar, capaz de gerar a potência
+e sustentação necessária por si mesmo. Porém, isto é um facto polémico, já que Santos Dumont é creditado no Brasil e
+em diversos países como o responsável pelo primeiro voo num avião.
+
+Todavia, em outras partes do mundo, o crédito à invenção do avião é dado aos irmãos Wilbur e Orville Wright de
+origem estadunidense, sendo a exceção a França, onde o crédito é dado a Clément Ader; os voos deste, efetuados em 9
+de outubro de 1890, no entanto, são ignorados pelo resto do mundo por terem sido realizados em segredo
+militar e só revelados muitos anos depois.
+
+Apesar de não ser reconhecido como o "pai da aviação", o nome dado por Ader à sua invenção, "avion" (avião em
+francês), é usado em todas as línguas latinas para designar o aparelho mais pesado que o ar.
+
+Uso militar
+
+Me 262, primeiro avião a jato do mundo
+As guerras na Europa, em especial, a Primeira Guerra Mundial, serviram como palco de testes para o uso do avião como
+armamento. Primeiramente visto por generais e comandantes como um "brinquedo", o avião provou ser uma máquina de guerra
+capaz de causar sérios estragos nas linhas inimigas. Na Primeira Guerra Mundial, grandes ases surgiram, dos quais o
+maior foi o alemão Barão Vermelho. Do lado aliado, o ás com a maior quantidade de aeronaves abatidas foi René Fonck, da
+França.
+
+Após a Primeira Guerra Mundial, os aviões passaram por inúmeros avanços tecnológicos. Os primeiros voos comerciais foram
+realizados entre os Estados Unidos e o Canadá em 1919. Naquele ano, os britânicos John Alcock e Arthur Whitten Brown
+realizaram a primeira travessia transatlântica em um avião. Associando-se a Artur Sacadura Cabral, Gago Coutinho
+realizou em 1921 a primeira travessia aérea do Atlântico Sul. João Ribeiro de Barros foi o primeiro nas Américas a
+realizar uma travessia aérea transatlântica, em 28 de abril de 1927. Charles Lindbergh tornou-se a primeira pessoa a
+cruzar o Oceano Atlântico num voo solo sem escalas, em 20 de maio de 1927. O motor a reação estava em desenvolvimento na
+década de 1930, sendo que aviões a jato militares já estavam operando na década de 1940.
+
+Aviões a jato fazem uso de motores para gerar o impulso necessário para fazer o avião decolar. Os aviões desempenharam
+um papel fundamental na Segunda Guerra Mundial, tendo presença em todas as batalhas mais importantes e conhecidas da
+guerra, especialmente nas batalhas do Pacífico e no Dia D. Também constituíam parte essencial de várias das novas
+estratégias militares da época, como a Blitzkrieg alemã (ataque rápido e de surpresa) ou os porta-aviões americanos e
+japoneses. Neste período surgiram outras inovações, como o Horten Ho 229, a asa voadora dos irmãos Horten.
+
+Em outubro de 1947, o americano Chuck Yeager, no seu Bell X-1, foi a primeira pessoa a ultrapassar a barreira do som. O
+recorde mundial de velocidade para um avião de asa fixa tripulada é de 7 297 km/h (5,91 Ma), da aeronave X-15. Durante o
+bloqueio de Berlim, aviões, tanto militares quanto civis, continuaram a alimentar Berlim Ocidental com suprimentos, em
+1948, quando o acesso a suprimentos via ferrovias e estradas à cidade, completamente cercada pela Alemanha Oriental, foi
+bloqueado por ordem da União Soviética.
+
+Uso civil
+
+O primeiro jato comercial, o De Havilland Comet, foi introduzido em 1952, e o primeiro jato comercial de sucesso, o
+Boeing 707, ainda na década de 1950. O Boeing 707 iria desenvolver-se posteriormente no Boeing 737, a linha de aviões de
+passageiros mais usada do mundo, no Boeing 727, outro avião de passageiros bastante usado, e no Boeing 747, o maior
+avião comercial do mundo até 2005, quando foi superado pelo Airbus A380.
+
+Em 1962, o North American X-15 pilotado por Robert White tornou-se o primeiro avião a chegar à termosfera, a uma
+altitude de 95 936 m (315 000 ft). O X-15 também foi a primeira aeronave hipersônica, conseguindo atingir uma velocidade
+cinco vezes maior que a do som. O primeiro avião supersônico comercial do mundo foi o Tupolev Tu-144, sendo também o
+maior avião supersônico já construído. Seu primeiro voo foi em 31 de dezembro de 1968.
+
+Em 1988, como parte do programa espacial soviético para transporte de ônibus espacial e de carga, é lançado o Antonov
+An-225, o maior avião já construído, capaz de transportar 250 toneladas.
